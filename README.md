@@ -1,4 +1,3 @@
-# RLs-Razor-Reproduction
 # RL’s Razor: Reproduction Study  
 *A complete reimplementation of “RL’s Razor: Why On-Policy Reinforcement Learning Forgets Less” (2025)*
 
