@@ -8,7 +8,8 @@ The project studies whether a simple **REINFORCE-style reinforcement learning** 
 
 ## Research Question
 
-**Does REINFORCE-style RL fine-tuning improve mathematical reasoning with less distributional shift than supervised fine-tuning in a lightweight LLM?**
+**Does REINFORCE-style post-training minimize representation-level distributional shift and preserve core capabilities better than SFT when optimizing lightweight language models for mathematical reasoning?
+**
 
 In this project, the comparison is not between different model architectures. Instead, the same base model is adapted using different post-training strategies:
 
